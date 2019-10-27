@@ -8,5 +8,5 @@ html, #root>div, body, #root {
   padding: 0;
   margin: 0;
   height: 100%;
-/* background-color: black; */
+  background-color: rgb(15, 15, 15);
 }
