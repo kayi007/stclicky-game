@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "Eleven",
-        "image": "/imgs/ST1.jpg",
+        "image": "./imgs/ST1.jpg",
         "clicked": false
     },
     {
         "id": 2,
         "name": "Dustin Henderson",
-        "image": "/imgs/ST2.jpg",
+        "image": "./imgs/ST2.jpg",
         "clicked": false
     },
     {
         "id": 3, 
         "name": "Steve Harrington",
-        "image": "/imgs/ST3.jpg",
+        "image": "./imgs/ST3.jpg",
         "clicked": false
     },
     {
         "id": 4,
         "name": "Jim Hopper",
-        "image": "/imgs/ST4.jpg",
+        "image": "./imgs/ST4.jpg",
         "clicked": false
     },
     {
         "id": 5,
         "name": "Nancy Wheeler",
-        "image": "/imgs/ST5.jpg",
+        "image": "./imgs/ST5.jpg",
         "clicked": false
     },
     {
         "id": 6,
         "name": "Will Byers",
-        "image": "/imgs/ST6.jpg",
+        "image": "./imgs/ST6.jpg",
         "clicked": false
     },
     {
         "id": 7,
         "name": "Joyce Byers",
-        "image": "/imgs/ST7.jpg",
+        "image": "./imgs/ST7.jpg",
         "clicked": false
     },
     {
         "id": 8,
         "name": "Johnathan Byers",
-        "image": "/imgs/ST8.jpg",
+        "image": "./imgs/ST8.jpg",
         "clicked": false
     },
     {
         "id": 9,
         "name": "Mike Wheeler",
-        "image": "/imgs/ST9.jpg",
+        "image": "./imgs/ST9.jpg",
         "clicked": false
     },
     {
         "id": 10,
         "name": "Lucas Sinclair",
-        "image": "/imgs/ST10.jpg",
+        "image": "./imgs/ST10.jpg",
         "clicked": false
     },
     {
         "id": 11,
         "name": "Max",
-        "image": "/imgs/ST11.jpg",
+        "image": "./imgs/ST11.jpg",
         "clicked": false
     },
     {
         "id": 12,
         "name": "Robin Buckley",
-        "image": "/imgs/ST12.jpg",
+        "image": "./imgs/ST12.jpg",
         "clicked": false
     }
 ]
