@@ -1,68 +1,23 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Clicky Game
+Not sure if you have a good memory? 
+Why not test your memory with this clicky game! <br>
+:link: [CLICK HERE TO PLAY]()
 
-## Available Scripts
+<p style="text-align: center;"><b>:bangbang:Stranger Things Edition:bangbang:</b></p>
+<img src="https://media.giphy.com/media/xTcf1kHpLNe4D1eD2E/giphy.gif">
+<hr>
+Explore your memory with your favorite characters! <br> 
+Don't click on the same picture twice!
 
-In the project directory, you can run:
+## Game Rules
+- 12 pictures of Stranger Things characters wil appear in a random order on the screen
+- Click on any one of them to start the game 
+- The pictures will reshuffle after every click (the whole point of testing your memory, right?)
+- Don't click on the one you've just clicked, or else you lose the game instantly (don't worry, your memory can't be THAT bad. you're just not familiar with the game during the first few rounds)
+- Continue to click on the ones you have NOT clicked until you've clicked on all of them <br>
+**(REMEMBER: Don't click on the same picture twice!)**
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Technologies Used for Clicky Game
+As an app developer of this game, here are the technologies I used:
+- React
+- Bootstrap, CSS
