@@ -1,0 +1,15 @@
+.mainGame{
+    /* padding: 50px; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+/* 
+@media (min-width: 1100px)
+{
+    .mainGame{
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+} */

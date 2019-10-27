@@ -1,0 +1,29 @@
+#STlogo{
+    width: 60%;
+    height: auto;
+    filter: brightness(0) invert(1);
+}
+
+.row{
+    background-color: rgb(15, 15, 15);
+}
+
+h1{
+    color: rgb(158, 11, 11);
+}
+
+h6{
+    color: gainsboro;
+}
+
+.currentScore, .topScore{
+    color: gainsboro;
+    padding: 20px;
+    font-size: 125%;
+}
+
+.message{
+    background-color: goldenrod;
+    color: black;
+    padding: 15px;
+}
