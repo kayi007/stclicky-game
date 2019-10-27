@@ -1,7 +1,7 @@
 ## Clicky Game
 Not sure if you have a good memory? 
 Why not test your memory with this clicky game! <br>
-:link: [CLICK HERE TO PLAY]()
+:link: [CLICK HERE TO PLAY](https://kayi007.github.io/stclicky-game/)
 
 <p style="text-align: center;"><b>:bangbang:Stranger Things Edition:bangbang:</b></p>
 <img src="https://media.giphy.com/media/xTcf1kHpLNe4D1eD2E/giphy.gif">
